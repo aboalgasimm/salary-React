@@ -1,4 +1,4 @@
-This is a Budget or Salary traker built with React.
+This is a Budget or Salary tracker built with React.
 
 Features:
 
